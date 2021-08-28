@@ -1,4 +1,4 @@
-# ELoader - 一个mod注入工具
+# ELoader - 一个mod注入工具(从Xenobyte分离)
 ### 使用方法:
 将你要注入的mod放在此目录
 
